@@ -1,0 +1,1 @@
+# golden_cross_strategy
