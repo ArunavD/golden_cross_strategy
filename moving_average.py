@@ -10,4 +10,4 @@ with open('data_set/spy.csv') as f:
 
         closing_price_sum += float(close)
 
-print(closing_price_sum / 200)        
+print(closing_price_sum / 200)      
