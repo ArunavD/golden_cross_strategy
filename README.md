@@ -13,7 +13,7 @@ I have tested golden cross strategy in S&P500 (SPY) using python and backtrader.
 
 ## Contents
 
-* [What is moving average?](#What-is-moving-average-?)
+* [What is moving average?](#What-is-moving-average?)
 * [What is Golden Cross strategy?](#What-is-Golden-Cross-strategy-?)
 * [Libraries](#Libraries)
 * [Description of each file](#Description-of-each-file)
