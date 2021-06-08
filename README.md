@@ -8,7 +8,7 @@
 
 ![logo](https://github.com/ArunavD/golden_cross_strategy/blob/master/Figure_0.png)
 
-I have tested golden cross strategy in S&P500 (SPY) using python and backtrader. Also added buy and hold strategy to get the idea of calling strategies from console.
+I have tested golden cross strategy in S&P500 (SPY) and NIFTY_50 using python and backtrader. Also added buy and hold strategy to get the idea of calling strategies from console.
 
 
 
@@ -59,9 +59,10 @@ The golden cross occurs when a short-term moving average (here I have taken 50 d
 
 ## Datasets
 
-I have only used one S&P500 dataset which I ahve added bellow. Other stocks historical data also can be downloaded from [yahoo finance](https://in.finance.yahoo.com/).
+I have only used S&P500 and NIFTY50 dataset which I ahve added bellow. Other stocks historical data also can be downloaded from [yahoo finance](https://in.finance.yahoo.com/).
 
 + [SPY](https://github.com/ArunavD/golden_cross_strategy/blob/master/data_set/spy.csv)
++ [NIFTY50]()
 
 
 
