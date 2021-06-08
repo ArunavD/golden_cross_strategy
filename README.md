@@ -3,6 +3,7 @@
 
 ![Golden_cross strategy](https://img.shields.io/badge/strategy-golden__cross-blue)
 ![S&P500](https://img.shields.io/badge/S%26P-500-brightgreen)
+![nifty_50](https://img.shields.io/badge/NIFTY-50-orange)
 
 
 ![logo](https://github.com/ArunavD/golden_cross_strategy/blob/master/Figure_0.png)
